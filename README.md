@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thabresh</h1>
+<h1 align="center">Hi 👋, I'm Thabresh Syed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning,NLP**
