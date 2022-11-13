@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Data Analytics, Visualization tools**
 
-- 📫 How to reach me **thabresh@outlook.com**
+- 📫 How to reach me **contact@thabresh.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
